@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a580a046-371f-4c7d-8d3b-8ab45a5aa7f4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/main.html" afterPath="$PROJECT_DIR$/client/main.html" />
-    </list>
+    <list default="true" id="a580a046-371f-4c7d-8d3b-8ab45a5aa7f4" name="Default" comment="" />
     <ignored path="microscope.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,6 +51,18 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="post_item.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#38#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="posts_list.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/templates/posts/posts_list.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,6 +108,7 @@
         <option value="$PROJECT_DIR$/client/templates/posts/posts_list.html" />
         <option value="$PROJECT_DIR$/client/templates/posts/post_item.html" />
         <option value="$PROJECT_DIR$/client/templates/posts/posts_list.js" />
+        <option value="$PROJECT_DIR$/client/templates/posts/post_item.js" />
       </list>
     </option>
   </component>
@@ -109,7 +120,7 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="476" />
+    <option name="x" value="521" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="728" />
@@ -251,7 +262,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="476" y="23" width="1280" height="728" extended-state="0" />
+    <frame x="521" y="23" width="1280" height="728" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17553614" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -325,6 +336,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#38#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/posts/post_item.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
             <element signature="e#0#38#0" expanded="false" />
           </folding>
