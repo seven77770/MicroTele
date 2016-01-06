@@ -17,11 +17,13 @@ Template.postSubmit.events({
 
         	if (result.postExists) {
         		alert('this link has already been posted');
-        		Router.go('postPage',{_id: result._id});
+
         	};
 
         	
         });
+
+        Router.go('postsList');
         
     }
 });
