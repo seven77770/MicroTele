@@ -67,12 +67,20 @@ body {
 .jumbotron h2{
     font-size: 60px;
     font-weight: 100; }
-@-webkit-keyframes fadeOut { 0% {opacity: 0;}
+@-webkit-keyframes fadeOut { 
+    0% {opacity: 0;}
     10% {opacity: 1;}
     90% {opacity: 1;}
-    100% {opacity: 0;} }
-@keyframes fadeOut { 0% {opacity: 0;} 10% {opacity: 1;} 90% {opacity: 1;} 100% {opacity: 0;}
+    100% {opacity: 0;} 
 }
+
+@keyframes fadeOut { 
+    0% {opacity: 0;} 
+    10% {opacity: 1;} 
+    90% {opacity: 1;} 
+    100% {opacity: 0;}
+}
+
 .errors{
     position: fixed; z-index: 10000; padding: 10px;
     top: 0px;
